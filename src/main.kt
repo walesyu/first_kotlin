@@ -1,4 +1,4 @@
-package main
+package com.wales
 
 import com.wales.obj.Person
 import com.wales.utils.Fish
